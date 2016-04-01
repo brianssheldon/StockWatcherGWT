@@ -1,0 +1,3 @@
+# StockWatcherGWT
+gwt gae app
+#
